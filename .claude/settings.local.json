@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cp /home/tuanht/devs/tuanht-pages/docs/wyckoff-s2-revised.jsx /home/tuanht/devs/tuanht-pages/src/WyckoffS2Revised.jsx)",
+      "Bash(cp /home/tuanht/devs/tuanht-pages/docs/wyckoff-reconciled.jsx /home/tuanht/devs/tuanht-pages/src/WyckoffReconciled.jsx)",
+      "Bash(npm run:*)"
+    ]
+  }
+}
