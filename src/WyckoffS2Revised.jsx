@@ -13,7 +13,7 @@ const PHASES = [
 // Y scale: 0 = $140K, 95 = $10K (inverted, higher price = lower Y)
 // X scale: 0-100 representing timeline
 const priceToY = (price) => 95 - ((price - 10000) / (140000 - 10000)) * 95;
-const yToPrice = (y) => Math.round(((95 - y) / 95) * (140000 - 10000) + 10000);
+const _yToPrice = (y) => Math.round(((95 - y) / 95) * (140000 - 10000) + 10000);
 
 const EVENTS = [
   { label: "Start", price: 16000, date: "11/2022", x: 2 },
