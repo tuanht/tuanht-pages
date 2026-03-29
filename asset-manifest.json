@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tuanht-pages/static/css/main.e6c13ad2.css",
+    "main.js": "/tuanht-pages/static/js/main.da93d0b8.js",
+    "static/js/453.db4d23cf.chunk.js": "/tuanht-pages/static/js/453.db4d23cf.chunk.js",
+    "index.html": "/tuanht-pages/index.html",
+    "main.e6c13ad2.css.map": "/tuanht-pages/static/css/main.e6c13ad2.css.map",
+    "main.da93d0b8.js.map": "/tuanht-pages/static/js/main.da93d0b8.js.map",
+    "453.db4d23cf.chunk.js.map": "/tuanht-pages/static/js/453.db4d23cf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.da93d0b8.js"
+  ]
+}
